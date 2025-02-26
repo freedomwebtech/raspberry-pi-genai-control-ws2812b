@@ -98,7 +98,7 @@ llm = ChatGoogleGenerativeAI(
     model="gemini-2.0-flash",
     temperature=0.5,
     max_tokens=100,
-    api_key="AIzaSyAAw-ANSmTUrrRQsE9LziFO94C8K8GNZd8"  # Replace with your actual API key.
+    api_key=""  # Replace with your actual API key.
 )
 
 # -------------- Initialize AI Agent with Tools --------------
