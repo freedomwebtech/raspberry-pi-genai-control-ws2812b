@@ -1,5 +1,3 @@
-AIzaSyAAw-ANSmTUrrRQsE9LziFO94C8K8GNZd8
-
 sudo rm /usr/lib/python3.11/EXTERNALLY-MANAGED
 sudo pip3 install rpi_ws281x adafruit-circuitpython-neopixel
 pip3 install pygame
