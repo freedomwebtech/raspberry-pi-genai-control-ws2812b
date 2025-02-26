@@ -6,3 +6,12 @@ pip3 install langchain-core
 pip3 install langchain-google-genai
 pip3 install langchain_community
 pip3 install duckduckgo-search
+
+
+
+
+#############################################################
+####################WS2812bRGBWIRECOLOR#########################
+VCC (5V or 3.3V) → Red wire (Power)
+GND (Ground) → Black or White wire (Ground)
+DIN (Data In) → Green or Yellow wire (Signal/Data)
