@@ -1,0 +1,10 @@
+AIzaSyAAw-ANSmTUrrRQsE9LziFO94C8K8GNZd8
+
+sudo rm /usr/lib/python3.11/EXTERNALLY-MANAGED
+sudo pip3 install rpi_ws281x adafruit-circuitpython-neopixel
+pip3 install pygame
+pip3 install langchain
+pip3 install langchain-core
+pip3 install langchain-google-genai
+pip3 install langchain_community
+pip3 install duckduckgo-search
